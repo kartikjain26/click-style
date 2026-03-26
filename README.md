@@ -4,8 +4,6 @@
 
 ClickStyle is a lightweight Chrome extension that lets you visually edit CSS styles on any webpage — faster than opening DevTools. Double-click, select text, or right-click any element to start editing instantly.
 
-[Download Chrome extension](https://chromewebstore.google.com/detail/clickstyle/ifcpnjifiojdcihncmoojmfegkglfkff?authuser=0&hl=en)
-
 ---
 
 ## Why ClickStyle?
@@ -58,7 +56,7 @@ Built for developers, designers, and anyone who tweaks the web.
 
 ### From Chrome Web Store
 
-> Coming soon
+[Download Chrome extension](https://chromewebstore.google.com/detail/clickstyle/ifcpnjifiojdcihncmoojmfegkglfkff?authuser=0&hl=en)
 
 ### Manual install (Developer Mode)
 
